@@ -9,7 +9,9 @@ trigger testtrigger2 on Account (after update) {
                         con.Fax = acc.Fax;
                     }
                 update listCon;  
-                //set 1
+                //set 1 from eclipse
+                //set 2 from eclipse
+                //set 3 from eclipse creating branch1
                
            
             }
