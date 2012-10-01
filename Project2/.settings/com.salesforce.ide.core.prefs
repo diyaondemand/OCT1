@@ -1,4 +1,16 @@
-#Mon Oct 01 12:17:17 EDT 2012
+#Mon Oct 01 13:28:54 EDT 2012
+ExecuteAnonymousApex_code=Debug
+ExecuteAnonymousApex_profiling=Info
+ExecuteAnonymousCallout=Info
+ExecuteAnonymousDb=Info
+ExecuteAnonymousValidation=Info
+ExecuteAnonymousWorkflow=Info
+RunTestApex_code=Debug
+RunTestApex_profiling=Info
+RunTestCallout=Info
+RunTestDb=Info
+RunTestValidation=Info
+RunTestWorkflow=Info
 eclipse.preferences.version=1
 endpointApiVersion=24.0
 endpointEnvironment=Production/Developer Edition

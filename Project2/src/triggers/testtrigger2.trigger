@@ -8,7 +8,9 @@ trigger testtrigger2 on Account (after update) {
                     {
                         con.Fax = acc.Fax;
                     }
-                update listCon;    
+                update listCon;  
+                //set 1
+               
            
             }
     
