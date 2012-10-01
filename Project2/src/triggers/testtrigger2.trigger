@@ -12,6 +12,7 @@ trigger testtrigger2 on Account (after update) {
                 //set 1 from eclipse
                 //set 2 from eclipse
                 //set 3 from eclipse creating branch1
+                //set 4 from eclipse committing to branch 1 again
                
            
             }
