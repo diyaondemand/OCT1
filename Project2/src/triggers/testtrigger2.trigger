@@ -12,7 +12,7 @@ trigger testtrigger2 on Account (after update) {
                 //set 1 from eclipse
                 //set 2 from eclipse
                 //set 3 from eclipse creating branch1
-               
+               //CHANGE 4 FROM ECLIPSE BRANCH3.MASTER
            
             }
     
